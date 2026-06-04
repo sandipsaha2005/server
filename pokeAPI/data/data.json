@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "player_one",
+      "email": "player1@example.com",
+      "level": 5,
+      "score": 1240,
+      "isOnline": true
+    },
+    {
+      "id": 2,
+      "username": "player_two",
+      "email": "player2@example.com",
+      "level": 3,
+      "score": 760,
+      "isOnline": false
+    }
+  ],
+
+  "characters": [
+    {
+      "id": 101,
+      "name": "Blaze",
+      "type": "warrior",
+      "health": 100,
+      "speed": 4,
+      "damage": 20
+    },
+    {
+      "id": 102,
+      "name": "Shadow",
+      "type": "sniper",
+      "health": 80,
+      "speed": 6,
+      "damage": 35
+    }
+  ],
+
+  "weapons": [
+    {
+      "id": 201,
+      "name": "Pistol",
+      "damage": 10,
+      "fireRate": 0.5,
+      "ammo": 12
+    },
+    {
+      "id": 202,
+      "name": "Rifle",
+      "damage": 25,
+      "fireRate": 0.2,
+      "ammo": 30
+    }
+  ],
+
+  "enemies": [
+    {
+      "id": 301,
+      "name": "Zombie",
+      "health": 60,
+      "speed": 2,
+      "damage": 8
+    },
+    {
+      "id": 302,
+      "name": "Boss",
+      "health": 300,
+      "speed": 1,
+      "damage": 25
+    }
+  ]
+}

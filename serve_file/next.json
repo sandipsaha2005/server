@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 999.99,
+      "description": "A high-performance laptop with a 15-inch screen.",
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "price": 499.50,
+      "description": "A latest model smartphone with a great camera.",
+      "inStock": false
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "price": 149.00,
+      "description": "Noise-cancelling over-ear headphones.",
+      "inStock": true
+    }
+  ],
+  "totalProducts": 3
+}
